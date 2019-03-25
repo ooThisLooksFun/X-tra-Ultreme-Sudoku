@@ -1,0 +1,28 @@
+User Story 1:
+As a player I want a timer so that I have an extra challenge [7]
+
+Test Cases:
+A timer must be implemented to start at 0 once the board is loaded 
+Timer must stop once the user has finished the board or has chosen to quit
+
+Description:
+Display a timer starting from 0 counting the number of seconds taken on the level.
+Setup
+Set the timer to 0:00
+
+Instructions:
+Start a game of sudoku
+Quit the game
+Start a new game of sudoku
+
+Acceptance Tests:
+Timer is not displayed -- Unacceptable
+Timer is displayed 
+Timer starts at 0 and counts seconds
+Timer increases  -- Acceptable
+Timer decreases -- Unacceptable
+Timer does not count seconds
+  -- Unacceptable
+Timer does not start at 0 
+-- Unacceptable
+

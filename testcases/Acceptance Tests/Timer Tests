@@ -1,0 +1,17 @@
+Acceptance Test
+
+Timer is not displayed -- Unacceptable
+Timer is displayed 
+Timer starts at 0 and counts seconds
+Timer increases  -- Acceptable
+Timer decreases -- Unacceptable
+Timer does not count seconds
+  -- Unacceptable
+Timer does not start at 0 
+-- Unacceptable
+
+Expected Results
+
+As the game starts, the timer should be visible to the user and should start counting each second from 0
+Once the game is quit the timer should stop and be used for scoring
+As the next game starts, the timer should once again start from 0 and count each second upwards

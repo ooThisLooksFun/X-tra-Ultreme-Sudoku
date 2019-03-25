@@ -1,0 +1,16 @@
+Acceptance Test
+
+The timer stops and the board disables-- Acceptable
+The timer stops but the board does not disable itself -- Unacceptable
+The board disables but the timer does not stop -- Unacceptable
+Neither the timer stops or the board disable. -- Unacceptable
+The timer continues and the board gets enabled -- Acceptable
+The timer continues but the board does not get enabled -- Unacceptable
+The board gets enabled but the timer does not resume -- Unacceptable
+Neither the timer resumes or the board gets enabled -- Unacceptable.
+
+
+Expected Results 
+
+Once the pause button is clicked, the gameboard should get disabled and invisable, and the timer should pause.
+Once the pause button gets clicked again, the gameboard should get enabled and visable, as well as the timer should continue

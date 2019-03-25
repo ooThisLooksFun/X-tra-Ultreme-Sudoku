@@ -1,0 +1,10 @@
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\bin\Debug\SudokuSet1.exe.config
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\bin\Debug\SudokuSet1.exe
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\bin\Debug\SudokuSet1.pdb
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.csprojAssemblyReference.cache
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.Form1.resources
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.Properties.Resources.resources
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.csproj.GenerateResource.cache
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.csproj.CoreCompileInputs.cache
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.exe
+C:\Users\100658633\Documents\Visual Studio 2017\Projects\SudokuSet1\SudokuSet1\obj\Debug\SudokuSet1.pdb

@@ -1,0 +1,9 @@
+Acceptance Test
+
+A prompt appears on the screen stating “You Win”-- Acceptable
+No message appears -- Unacceptable
+A prompt appears on the screen stating “You Lose” -- Unacceptable
+
+
+Expected Results
+After finishing the board, a prompt will appear on the screen confirming the win

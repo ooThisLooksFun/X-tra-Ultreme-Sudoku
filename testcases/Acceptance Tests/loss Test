@@ -1,0 +1,9 @@
+Acceptance Test
+
+A prompt appears on the screen stating “You Win” -- Unacceptable
+No message appears- - Unacceptable
+A prompt appears on the screen stating “You Lose” -- Acceptable
+
+
+Expected Results
+In case of quitting, a prompt appears on the screen stating “You Lose”

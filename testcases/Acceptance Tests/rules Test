@@ -1,0 +1,10 @@
+Acceptance Test
+
+Page does not have all the rules -- Unacceptable
+Page does not load -- Unacceptable
+A rule page loads up with all the rule on how to play sudoku -- Acceptable
+
+
+
+Expected Results
+On the click of "Rules" button, a rule page with all the rule on how to play sudoku loads up

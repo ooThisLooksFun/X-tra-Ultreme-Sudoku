@@ -1,0 +1,13 @@
+Acceptance Test
+
+Player starts a game
+A motivational quote is displayed on the top of the screen -- Acceptable
+There is no quote on the top of the page -- Unacceptable
+
+
+Functional Requirements
+-Motivational quote shows of screen while the player in the game
+
+
+Expected Results
+The quote shows up at the top of the page without overlapping the board

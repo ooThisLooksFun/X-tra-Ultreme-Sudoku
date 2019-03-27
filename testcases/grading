@@ -26,3 +26,128 @@ Timer does not count seconds
 Timer does not start at 0 
 -- Unacceptable
 
+
+User Story 2:
+As a player i want to be able to pause the game so I can take a break and do something else and then comeback and continue. [8]
+
+Test Case:
+The board must be disabled along with the timer
+
+Description
+Sudoku is a long game especially on higher difficulties. The game should be pausable, that way the user can take a break without worrying about their score being disrupted
+Setup
+NO SETUP
+Instructions
+User starts the game
+User selects the pause option
+User selects the pause option again
+
+Acceptance Test
+A player wishes to pause the game and clicks pause button
+The timer stops and the board disables- Acceptable
+The timer stops but the board does not disable itself -- Unacceptable
+The board disables but the timer does not stop -- Unacceptable
+Neither the timer stops or the board disable. -- Unacceptable
+Player clicks the continue button to resume the game
+The timer continues and the board gets enabled -- Acceptable
+The timer continues but the board does not get enabled -- Unacceptable
+The board gets enabled but the timer does not resume -- Unacceptable
+Neither the timer resumes or the board gets enabled -- Unacceptable.
+
+
+User Story 3:
+As a player I want a victory celebration so that I feel satisfactory after a win. [3]
+Test Cases:
+Submitted board by the user must be checked for accuracy with the solution board
+A statement must be displayed as a confirmation that the player has won the game.
+
+Description
+Display a message if the player completes the board successfully
+Setup
+NO SETUP
+Instructions
+Start the game
+Complete and submit the game
+
+Acceptance Test
+A prompt appears on the screen stating “You Win”-- Acceptable
+No message appears -- Unacceptable
+A prompt appears on the screen stating “You Lose” -- Unacceptable
+
+
+User Story 4:
+As a player I want a motivational sudoku quote while playing so I can gain inspiration while playing [1]
+Test Case:
+A statement must be displayed on the Sudoku board while the game is running.
+
+Description
+Motivational sudoku quote
+Setup
+Select a quote to have in the game
+
+Instructions
+Start the game in any difficulty
+
+Acceptance Test
+Player starts a game
+A motivational quote is displayed on the top of the screen -- Acceptable
+There is no quote on the top of the page -- Unacceptable
+
+
+User Story 5:
+As a player I want to be able to view the rules of the game so that I better understand how to play. [8]
+Test Cases:
+A “How to play?” button should be provided as a component of  the main menu.
+Form must be included with the rules for the game 
+
+Description
+Able to view the rules of the game
+Setup
+NO SETUP
+Instructions
+Click on “How to Play” (Rule page)
+
+Acceptance Test
+Page does not have all the rules -- Unacceptable
+Page does not load -- Unacceptable
+A rule page with all the rule on how to play sudoku -- Acceptable
+
+
+User Story 6:
+As a player I want be able to choose different themes so that I can accustom the aesthetics to my liking. [4]
+Test Case:
+Several folders containing different pictures should correlate with the selected theme 
+
+Description
+Able to choose different themes
+Setup
+NO SETUP
+Instructions
+Click on “Theme”
+Select wanted Theme
+
+Acceptance Test
+The theme is selected but does not apply to the board -- Unacceptable
+Not all themes show up -- Unacceptable
+Unable to select the theme -- Unacceptable
+Board layout and the background color changes according to the theme selected  -- Acceptable
+
+
+User Story 7:
+As a player I want a victory celebration so that I feel satisfactory after a win. [3]
+Test Cases:
+Submitted board by the user must be checked for accuracy with the solution board
+A statement must be displayed as a confirmation that the player has won the game.
+
+Description
+Display a message if the player completes the board successfully
+Setup
+NO SETUP
+Instructions
+Start the game
+Complete and submit the game
+
+Acceptance Test
+A prompt appears on the screen stating “You Win”-- Acceptable
+No message appears -- Unacceptable
+A prompt appears on the screen stating “You Lose” -- Unacceptable

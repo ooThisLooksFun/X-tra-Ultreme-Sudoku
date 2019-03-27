@@ -10,6 +10,10 @@ Timer does not count seconds
 Timer does not start at 0 
 -- Unacceptable
 
+
+Functional Requirement
+-System starts a timer in the beginning of the game
+
 Expected Results
 
 As the game starts, the timer should be visible to the user and should start counting each second from 0

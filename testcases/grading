@@ -37,6 +37,7 @@ Description
 Sudoku is a long game especially on higher difficulties. The game should be pausable, that way the user can take a break without worrying about their score being disrupted
 Setup
 NO SETUP
+
 Instructions
 User starts the game
 User selects the pause option
@@ -65,6 +66,7 @@ Description
 Display a message if the player completes the board successfully
 Setup
 NO SETUP
+
 Instructions
 Start the game
 Complete and submit the game
@@ -104,6 +106,7 @@ Description
 Able to view the rules of the game
 Setup
 NO SETUP
+
 Instructions
 Click on “How to Play” (Rule page)
 
@@ -122,6 +125,7 @@ Description
 Able to choose different themes
 Setup
 NO SETUP
+
 Instructions
 Click on “Theme”
 Select wanted Theme
@@ -143,6 +147,7 @@ Description
 Display a message if the player completes the board successfully
 Setup
 NO SETUP
+
 Instructions
 Start the game
 Complete and submit the game

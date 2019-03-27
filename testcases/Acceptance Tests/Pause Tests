@@ -10,6 +10,10 @@ The board gets enabled but the timer does not resume -- Unacceptable
 Neither the timer resumes or the board gets enabled -- Unacceptable.
 
 
+Functional Requirements
+-Player pauses the game at their own convenience
+
+
 Expected Results 
 
 Once the pause button is clicked, the gameboard should get disabled and invisable, and the timer should pause.

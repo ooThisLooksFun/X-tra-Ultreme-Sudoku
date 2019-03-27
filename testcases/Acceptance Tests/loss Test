@@ -5,5 +5,10 @@ No message appears- - Unacceptable
 A prompt appears on the screen stating “You Lose” -- Acceptable
 
 
+Functional Requirements
+-Player does not complete the game and quits halfway
+-Loser message shows up of players screens
+
+
 Expected Results
 In case of quitting, a prompt appears on the screen stating “You Lose”

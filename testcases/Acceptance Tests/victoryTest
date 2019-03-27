@@ -5,5 +5,10 @@ No message appears -- Unacceptable
 A prompt appears on the screen stating “You Lose” -- Unacceptable
 
 
+Functional Requirements
+-Player completes the game 
+-Message show up on players screen
+
+
 Expected Results
 After finishing the board, a prompt will appear on the screen confirming the win

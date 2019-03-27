@@ -5,6 +5,9 @@ Page does not load -- Unacceptable
 A rule page loads up with all the rule on how to play sudoku -- Acceptable
 
 
+Functional Requirements
+-Players goes through the rules to understand the game
+
 
 Expected Results
 On the click of "Rules" button, a rule page with all the rule on how to play sudoku loads up

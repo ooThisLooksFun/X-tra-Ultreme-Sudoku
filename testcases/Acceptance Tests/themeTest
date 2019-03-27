@@ -1,0 +1,14 @@
+Acceptance Test
+
+The theme is selected but does not apply to the board -- Unacceptable
+Not all themes show up -- Unacceptable
+Unable to select the theme -- Unacceptable
+Board layout and the background color changes according to the theme selected  -- Acceptable
+
+
+Functional Requirement
+-Player pick their favourite theme for the game
+
+
+Expected Results
+Board layout and the background color changes according to the theme selected 
